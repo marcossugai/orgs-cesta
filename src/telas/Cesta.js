@@ -1,6 +1,6 @@
 
 import React from'react';
 
-function Cesta() {
+export default function Cesta() {
     return <Text>Cesta</Text>
 }
